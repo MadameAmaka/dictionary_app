@@ -12,7 +12,7 @@ export default function App() {
       <main>
         <Dictionary/>
       </main>
-      <footer> This is coded by Amaka</footer>
+      <footer> This project was coded by <a href='https://github.com/MadameAmaka' target='_blank' rel='nonreferrer'>Amaka Onwuli </a> and is open-sourced on <a href='https://github.com/MadameAmaka' target='_blank' rel='nonreferrer'></a>Github, and hosted on Netlify.</footer>
     </div></div>
   );
 }
