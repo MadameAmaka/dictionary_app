@@ -12,7 +12,8 @@ export default function App() {
       <main>
         <Dictionary/>
       </main>
-      <footer> This project was coded by <a href='https://github.com/MadameAmaka' target='_blank' rel='nonreferrer'>Amaka Onwuli </a> and is open-sourced on <a href='https://github.com/MadameAmaka' target='_blank' rel='nonreferrer'></a>Github, and hosted on Netlify.</footer>
+      <footer> This project was coded by <a href='https://github.com/MadameAmaka' target='_blank' rel='nonreferrer'>Amaka Onwuli </a> and is open-sourced on <a href='https://github.com/MadameAmaka/dictionary_app' target='_blank' rel='nonreferrer'>Github</a>, and hosted on <a href='https://amakas-dictionary-app.netlify.app/' target='_blank' rel='nonreferrer'>Netlify</a>.
+      </footer>
     </div></div>
   );
 }
