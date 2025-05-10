@@ -10,7 +10,7 @@ export default function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
-        <Dictionary/>
+        <Dictionary defaultKeyword="dictionary"/>
       </main>
       <footer> This project was coded by <a href='https://github.com/MadameAmaka' target='_blank' rel='noreferrer'>Amaka Onwuli </a> and is open-sourced on <a href='https://github.com/MadameAmaka/dictionary_app' target='_blank' rel='noreferrer'>Github</a>, and hosted on <a href='https://amakas-dictionary-app.netlify.app/' target='_blank' rel='noreferrer'>Netlify</a>.
       </footer>
